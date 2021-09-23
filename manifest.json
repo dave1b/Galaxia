@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "version": "1.0",
-  "name": "DarkGalaxy",
+  "version": "1..1",
+  "name": "Galaxia",
   "theme": {
     "images": {
       "additional_backgrounds": [
@@ -17,19 +17,25 @@
       ]
     },
     "colors": {
-      "toolbar": "rgb(0, 3, 6)",
+      "toolbar": "rgba(3, 20, 37, 0.65)",
       "toolbar_text": "rgb(228, 234, 234)",
-      "frame": "rgb(14, 24, 30)",
+      "frame": "rgb(9, 20, 26)",
       "tab_background_text": "rgb(221, 240, 237)",
-      "toolbar_field": "rgb(14, 24, 30)",
+      "toolbar_field": "rgb(24, 49, 63)",
       "toolbar_field_text": "rgb(255, 255, 255)",
-      "tab_line": "rgb(149, 197, 200)",
-      "popup": "rgb(27, 40, 45)",
+      "tab_line": "rgba(255, 255, 255, 0.25)",
+      "popup": "rgba(27, 40, 45, 0.8)",
       "popup_text": "rgb(221, 236, 233)",
-      "button_background_hover": "rgb(97, 16, 16)",
+      "button_background_hover": "rgba(51, 16, 16, 0.7)",
       "ntp_background": "rgb(0, 0, 0)",
-      "tab_selected": "rgb(61, 76, 82)",
-      "tab_loading": "rgb(149, 197, 200)"
+      "sidebar_border": "rgba(8, 241, 8, 0.7)",
+      "tab_text": "rgba(0, 255, 163, 0.9)",
+      "toolbar_bottom_separator": "rgba(24, 49, 63, 0.8)",
+      "toolbar_field_border_focus": "rgba(0, 255, 163, 0.5)",
+      "toolbar_field_border": "rgb(24, 49, 63)",
+      "toolbar_field_focus": "rgba(27, 40, 45, 0.97)",
+      "toolbar_top_separator": "rgba(24, 49, 63, 0.8)",
+      "tab_loading": "rgba(255, 255, 255, 0.25)"
     }
   }
 }
