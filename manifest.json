@@ -10,7 +10,7 @@
     },
     "properties": {
       "additional_backgrounds_alignment": [
-        "right top"
+        "center top"
       ],
       "additional_backgrounds_tiling": [
         "repeat"
