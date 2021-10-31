@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "version": "1.2",
+  "version": "1.4",
   "name": "Galaxia",
   "theme": {
     "images": {
@@ -26,6 +26,7 @@
       "tab_line": "rgba(255, 255, 255, 0.25)",
       "popup": "rgba(27, 40, 45, 0.98)",
       "popup_text": "rgb(221, 236, 233)",
+      "button_background_active": "rgba(51, 16, 16, 0.7)",
       "button_background_hover": "rgba(51, 16, 16, 0.7)",
       "ntp_background": "rgb(0, 0, 0)",
       "sidebar_border": "rgba(8, 241, 8, 0.7)",
