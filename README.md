@@ -4,4 +4,5 @@ My own Firefox-Theme. Feel free to download: https://addons.mozilla.org/de/firef
 
 <h2>Galaxia</h2>
 
-<img width="710" alt="thumbnail" src="https://user-images.githubusercontent.com/57140925/134629204-88a4a0c7-f6f4-4985-a352-643958101476.png">
+<img width="710" alt="thumbnail" src="https://user-images.githubusercontent.com/57140925/138152805-da150f86-61ef-48e2-a9a8-d88044bedbf4.png">
+
