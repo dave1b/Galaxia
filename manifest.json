@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "version": "1.4",
+  "version": "1.5",
   "name": "Galaxia",
   "theme": {
     "images": {
@@ -23,14 +23,14 @@
       "tab_background_text": "rgb(221, 240, 237)",
       "toolbar_field": "rgb(24, 49, 63)",
       "toolbar_field_text": "rgb(255, 255, 255)",
-      "tab_line": "rgba(255, 255, 255, 0.25)",
+      "tab_line": "rgba(255, 255, 255, 0.8)",
       "popup": "rgba(27, 40, 45, 0.98)",
       "popup_text": "rgb(221, 236, 233)",
-      "button_background_active": "rgba(51, 16, 16, 0.7)",
-      "button_background_hover": "rgba(51, 16, 16, 0.7)",
+      "button_background_active": "rgba(24, 49, 63, 0.98)",
+      "button_background_hover": "rgba(24, 49, 63, 0.98)",
       "ntp_background": "rgb(0, 0, 0)",
       "sidebar_border": "rgba(8, 241, 8, 0.7)",
-      "tab_text": "rgba(0, 255, 163, 0.9)",
+      "tab_text": "rgb(111, 243, 247)",
       "toolbar_bottom_separator": "rgba(24, 49, 63, 0.8)",
       "toolbar_field_border_focus": "rgba(0, 255, 163, 0.5)",
       "toolbar_field_border": "rgb(24, 49, 63)",
