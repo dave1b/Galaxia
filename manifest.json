@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "version": "1.5",
+  "version": "1.7",
   "name": "Galaxia",
   "theme": {
     "images": {
@@ -17,26 +17,28 @@
       ]
     },
     "colors": {
-      "toolbar": "rgba(3, 20, 37, 0.65)",
+      "toolbar": "rgba(3, 20, 37, 0.57)",
       "toolbar_text": "rgb(228, 234, 234)",
       "frame": "rgb(9, 20, 26)",
       "tab_background_text": "rgb(221, 240, 237)",
       "toolbar_field": "rgb(24, 49, 63)",
       "toolbar_field_text": "rgb(255, 255, 255)",
-      "tab_line": "rgba(255, 255, 255, 0.8)",
-      "popup": "rgba(27, 40, 45, 0.98)",
+      "tab_line": "rgb(255, 255, 255)",
+      "popup": "rgba(13, 24, 36, 0.98)",
       "popup_text": "rgb(221, 236, 233)",
       "button_background_active": "rgba(24, 49, 63, 0.98)",
-      "button_background_hover": "rgba(24, 49, 63, 0.98)",
+      "button_background_hover": "rgb(24, 49, 63)",
       "ntp_background": "rgb(0, 0, 0)",
-      "sidebar_border": "rgba(8, 241, 8, 0.7)",
-      "tab_text": "rgb(111, 243, 247)",
-      "toolbar_bottom_separator": "rgba(24, 49, 63, 0.8)",
+      "popup_border": "rgba(0, 26, 40, 0.53)",
+      "sidebar_border": "rgb(0, 44, 70)",
+      "sidebar_highlight": "rgb(113, 113, 113)",
+      "sidebar": "rgb(17, 18, 18)",
+      "toolbar_bottom_separator": "rgba(0, 26, 40, 0.7)",
       "toolbar_field_border_focus": "rgba(0, 255, 163, 0.5)",
       "toolbar_field_border": "rgb(24, 49, 63)",
       "toolbar_field_focus": "rgba(27, 40, 45, 0.97)",
-      "toolbar_top_separator": "rgba(24, 49, 63, 0.8)",
-      "tab_loading": "rgba(255, 255, 255, 0.25)"
+      "toolbar_top_separator": "rgba(0, 26, 40, 0.6)",
+      "tab_loading": "rgb(255, 255, 255)"
     }
   }
 }
