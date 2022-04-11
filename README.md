@@ -1,4 +1,4 @@
-My own Firefox-Theme. Feel free to download: https://addons.mozilla.org/de/firefox/addon/galaxia-/
+My Firefox-Theme. Feel free to download: https://addons.mozilla.org/de/firefox/addon/galaxia-/
 
 
 
