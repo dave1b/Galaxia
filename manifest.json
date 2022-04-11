@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "version": "1.7",
+  "version": "2.0",
   "name": "Galaxia",
   "theme": {
     "images": {
@@ -18,27 +18,28 @@
     },
     "colors": {
       "toolbar": "rgba(3, 20, 37, 0.57)",
-      "toolbar_text": "rgb(228, 234, 234)",
+      "toolbar_text": "rgb(255, 255, 255)",
       "frame": "rgb(9, 20, 26)",
-      "tab_background_text": "rgb(221, 240, 237)",
-      "toolbar_field": "rgb(24, 49, 63)",
+      "tab_background_text": "rgb(255, 255, 255)",
+      "toolbar_field": "rgb(29, 54, 77)",
       "toolbar_field_text": "rgb(255, 255, 255)",
-      "tab_line": "rgb(255, 255, 255)",
-      "popup": "rgba(13, 24, 36, 0.98)",
+      "tab_line": "rgb(148, 174, 200)",
+      "popup": "rgb(22, 33, 49)",
       "popup_text": "rgb(221, 236, 233)",
-      "button_background_active": "rgba(24, 49, 63, 0.98)",
-      "button_background_hover": "rgb(24, 49, 63)",
-      "ntp_background": "rgb(0, 0, 0)",
-      "popup_border": "rgba(0, 26, 40, 0.53)",
-      "sidebar_border": "rgb(0, 44, 70)",
-      "sidebar_highlight": "rgb(113, 113, 113)",
-      "sidebar": "rgb(17, 18, 18)",
+      "button_background_active": "rgb(33, 61, 87)",
+      "button_background_hover": "rgb(33, 61, 87)",
+      "ntp_background": "rgb(11, 14, 17)",
+      "popup_border": "rgb(24, 40, 56)",
+      "popup_highlight": "rgba(22, 33, 49, 0.98)",
+      "sidebar_highlight": "rgb(40, 70, 97)",
+      "sidebar": "rgb(22, 33, 49)",
+      "tab_selected": "rgba(3, 20, 37, 0.15)",
       "toolbar_bottom_separator": "rgba(0, 26, 40, 0.7)",
-      "toolbar_field_border_focus": "rgba(0, 255, 163, 0.5)",
+      "toolbar_field_border_focus": "rgb(85, 119, 138)",
       "toolbar_field_border": "rgb(24, 49, 63)",
-      "toolbar_field_focus": "rgba(27, 40, 45, 0.97)",
+      "toolbar_field_focus": "rgba(29, 54, 77, 0.98)",
       "toolbar_top_separator": "rgba(0, 26, 40, 0.6)",
-      "tab_loading": "rgb(255, 255, 255)"
+      "tab_loading": "rgb(148, 174, 200)"
     }
   }
 }
