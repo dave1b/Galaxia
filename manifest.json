@@ -1,45 +1,41 @@
 {
   "manifest_version": 2,
-  "version": "2.0",
+  "version": "3.0",
   "name": "Galaxia",
   "theme": {
     "images": {
-      "additional_backgrounds": [
-        "images/0.png"
-      ]
+      "additional_backgrounds": ["images/galaxia.png"]
     },
     "properties": {
-      "additional_backgrounds_alignment": [
-        "center top"
-      ],
-      "additional_backgrounds_tiling": [
-        "repeat"
-      ]
+      "additional_backgrounds_alignment": ["center top"],
+      "additional_backgrounds_tiling": ["repeat"]
     },
     "colors": {
       "toolbar": "rgba(3, 20, 37, 0.57)",
       "toolbar_text": "rgb(255, 255, 255)",
       "frame": "rgb(9, 20, 26)",
       "tab_background_text": "rgb(255, 255, 255)",
-      "toolbar_field": "rgb(29, 54, 77)",
+      "toolbar_field": "rgba(15, 42, 78, 0.9)",
       "toolbar_field_text": "rgb(255, 255, 255)",
-      "tab_line": "rgb(148, 174, 200)",
+      "tab_line": "rgba(0, 0, 0, 0.27)",
       "popup": "rgb(22, 33, 49)",
-      "popup_text": "rgb(221, 236, 233)",
-      "button_background_active": "rgb(33, 61, 87)",
+      "popup_text": "rgb(255, 255, 255)",
+      "button_background_active": "rgb(33, 61, 57)",
       "button_background_hover": "rgb(33, 61, 87)",
       "ntp_background": "rgb(11, 14, 17)",
       "popup_border": "rgb(24, 40, 56)",
-      "popup_highlight": "rgba(22, 33, 49, 0.98)",
-      "sidebar_highlight": "rgb(40, 70, 97)",
+      "popup_highlight_text": "rgba(22, 33, 48, 0.98)",
+      "popup_highlight": "rgb(89, 138, 191)",
+      "sidebar_highlight": "rgba(40, 70, 97, 0.98)",
       "sidebar": "rgb(22, 33, 49)",
-      "tab_selected": "rgba(3, 20, 37, 0.15)",
+      "tab_selected": "rgba(175, 220, 255, 0.25)",
       "toolbar_bottom_separator": "rgba(0, 26, 40, 0.7)",
-      "toolbar_field_border_focus": "rgb(85, 119, 138)",
+      "toolbar_field_border_focus": "rgba(15, 42, 78, 0.9)",
       "toolbar_field_border": "rgb(24, 49, 63)",
-      "toolbar_field_focus": "rgba(29, 54, 77, 0.98)",
+      "toolbar_field_focus": "rgba(6, 28, 48, 0.99)",
+      "toolbar_field_highlight": "rgba(135, 159, 32, 0.44)",
       "toolbar_top_separator": "rgba(0, 26, 40, 0.6)",
-      "tab_loading": "rgb(148, 174, 200)"
+      "tab_loading": "rgba(0, 0, 0, 0.27)"
     }
   }
 }
